@@ -1,0 +1,16 @@
+a{
+   color: black; 
+}
+.side{
+    display: inline-block;
+}
+h3,h1{
+    text-align: center;
+    color: antiquewhite;
+}
+fieldset{
+    background-color: black;
+}
+.bottom{
+   border-bottom: black;
+}
